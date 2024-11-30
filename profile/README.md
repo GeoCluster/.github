@@ -105,7 +105,7 @@ GeoCluster/
 │   ├── datasets/       # 테스트용 데이터
 │   └── tests/          # 알고리즘 테스트 코드
 └── .github/            # GitHub 관련 설정
-    └── docs/           # 문서화 (README, 기술 문서 등)
+    └── profile/           # 문서화 (README, 기술 문서 등)
         └── README.md   # 프로젝트 설명
 ```
 ---
